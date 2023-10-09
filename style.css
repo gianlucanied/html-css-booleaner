@@ -1,9 +1,8 @@
-
 #logo{
-    background-image: url();
+    background-image: url(pattern.png);
     background-color: blue;
+    width: 1000px;
     }
-
     #scritta-grigia{
         color: grey;
     }
@@ -39,11 +38,18 @@
 
     #penultima-foto{
         background-image: url(monitor.jpg);
-        height: 50px;
+        height: 200px;
+        width: 300px;
+        font-size: 25px;
+        color: white;
     }
 
     #ultima-foto{
         background-image: url(graph.jpg);
+        height: 200px;
+        width: 300px;
+        font-size: 25px;
+        color: white;
     }
 
 
