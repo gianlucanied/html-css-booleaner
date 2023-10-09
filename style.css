@@ -1,7 +1,12 @@
-#logo{
-    background-image: url(pattern.png);
-    background-color: blue;
-    width: 1000px;
+    #logo {
+        background-image: url(logo.svg);
+        background-image: url(pattern.png);
+        background-color: blue;
+        height: 200px;
+    }
+    #immagine-logo{
+        width: 200px;
+        height: 300px;
     }
     #scritta-grigia{
         color: grey;
