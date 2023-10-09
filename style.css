@@ -1,0 +1,50 @@
+
+#logo{
+    background-image: url();
+    background-color: blue;
+    }
+
+    #scritta-grigia{
+        color: grey;
+    }
+
+    #scritta-blu{
+        color: blue;
+    }
+
+    #data{
+        color: grey;
+    }
+
+    #evidenziatore{
+        background-color: yellow;
+    }
+
+    #scritta-sotto-foto{
+        font-size: 10px;
+    }
+
+    #prima-riga{
+        background-color: blue;
+        color: white;
+    }
+
+    #seconda-quarta-riga{
+        background-color: cornflowerblue;
+    }
+
+    #ultima-parte{
+        color: grey;
+    }
+
+    #penultima-foto{
+        background-image: url(monitor.jpg);
+        height: 50px;
+    }
+
+    #ultima-foto{
+        background-image: url(graph.jpg);
+    }
+
+
+
